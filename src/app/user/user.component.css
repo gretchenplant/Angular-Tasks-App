@@ -17,6 +17,8 @@ div {
     width: 100%;
     min-width: 10rem;
     text-align: left;
+    max-width: 200px;
+    border-radius: 7px;
   }
   
   button:hover,

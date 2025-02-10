@@ -16,7 +16,9 @@ div {
     cursor: pointer;
     width: 100%;
     min-width: 10rem;
+    max-width: 100px;
     text-align: left;
+    border-radius: 5px;
   }
   
   button:hover,
